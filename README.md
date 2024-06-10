@@ -12,8 +12,8 @@ Website redesign of the Liege Aviron Club.
 *Footer :* Social media links, contact information, and quick links<br>
 
 **Login/Register/Logout**<br>
-*Login :* users interface to be logued on the website<br>
-*Register :* registration zone<br>
+*Login :* users interface to be logued on the website (based on email and password verification)<br>
+*Register :* registration zone (based on the username, email, password)<br>
 *Logout :* Link to logout<br>
 
 **About Us Page**<br>
