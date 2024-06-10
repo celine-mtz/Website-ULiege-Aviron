@@ -22,6 +22,7 @@ The membership will be able to manage their own pictures<br>
 **Events Page**<br>
 *Calendar :* Upcoming events and races<br>
 *Event Details :* Information and registration options for each event<br>
+> This is redirection to an official website of the aviron events.
 
 **Gallery Page**<br>
 *Photo Gallery :* High-quality images of past events, training sessions, and club activities<br>
@@ -57,16 +58,19 @@ Creation of an admin zone wich offer the possibilites of
 
 ## Technical Zone ##
 **Frontend :** Nextjs<br>
--- Managed by : Heuse Quentin + Pavier Louis<br>
+- Managed by : Heuse Quentin + Pavier Louis<br>
 
 **Backend :** Laravel <br>
--- Managed by : Metz Céline + Fournier Damien<br>
+- Managed by : Metz Céline + Fournier Damien<br>
 
 ## Following Project ##
 A weekly report is planned to show the progress of the projet.
 
 ## TRELLO ##
 https://trello.com/b/jT6gygBC/projet-%F0%9F%8F%94%EF%B8%8F
+
+## Released Date ##
+The final product is planned to be released on July, 12 2024.
 
 ## BONUS ##
 Depending of the time and the evolution of the project, all added features will be a bonus.
