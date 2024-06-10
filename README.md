@@ -1,5 +1,4 @@
 # Website-ULiege-Aviron # :rowboat: :rowboat: :rowboat: 
-## BRIEFING ##
 
 ## Subject ##
 Website redesign of the Liege Aviron Club.
