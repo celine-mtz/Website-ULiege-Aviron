@@ -4,32 +4,32 @@
 Website redesign of the Liege Aviron Club.
 
 ## Main structure of the website
-**Homepage**
-Header: Club logo, navigation menu (Home, About Us, Membership, Events, Gallery, Contact)
-Hero Section: Full-width image of rowers on a river with a welcome message and a call-to-action button ("Join Us")
-About Section: Brief introduction about the club with an image of the clubhouse
-Latest News/Events: Upcoming events and recent news
-Footer: Social media links, contact information, and quick links
+**Homepage**<br>
+Header: Club logo, navigation menu (Home, About Us, Membership, Events, Gallery, Contact)<br>
+Hero Section: Full-width image of rowers on a river with a welcome message and a call-to-action button ("Join Us")<br>
+About Section: Brief introduction about the club with an image of the clubhouse<br>
+Latest News/Events: Upcoming events and recent news<br>
+Footer: Social media links, contact information, and quick links<br>
 
-**About Us Page**
-Introduction: Detailed history and mission of the club
-Team Section: Photos and bios of coaches and key members
-Facilities: Description and images of training facilities
+**About Us Page**<br>
+Introduction: Detailed history and mission of the club<br>
+Team Section: Photos and bios of coaches and key members<br>
+Facilities: Description and images of training facilities<br>
 
-**Membership**
-The membership will be able to manage their own pictures
+**Membership**<br>
+The membership will be able to manage their own pictures<br>
 
-**Events Page**
-Calendar: Upcoming events and races
-Event Details: Information and registration options for each event
+**Events Page**<br>
+Calendar: Upcoming events and races<br>
+Event Details: Information and registration options for each event<br>
 
-**Gallery Page**
-Photo Gallery: High-quality images of past events, training sessions, and club activities
+**Gallery Page**<br>  
+Photo Gallery: High-quality images of past events, training sessions, and club activities<br>
 
-**Contact Page**
-Contact Form: Form for visitors to send messages
-Map: Interactive map showing the club's location
-Contact Information: Address, phone number, and email
+**Contact Page**<br>
+Contact Form: Form for visitors to send messages<br>
+Map: Interactive map showing the club's location<br>
+Contact Information: Address, phone number, and email<br>
 
 ## Template model ##
 The website will be following the visual of this wireframe (this is just the using model, not the final visual of the project):
