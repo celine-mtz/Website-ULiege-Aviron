@@ -5,11 +5,16 @@ Website redesign of the Liege Aviron Club.
 
 ## Main structure of the website
 **Homepage**<br>
-*Header :* Club logo, navigation menu (Home, About Us, Membership, Events, Gallery, Contact)<br>
+*Header :* Club logo, navigation menu (Home, Login/Register/Logout, About Us, Membership, Events, Gallery, Contact)<br>
 *Hero Section :* Full-width image of rowers on a river with a welcome message and a call-to-action button ("Join Us")<br>
 *About Section :* Brief introduction about the club with an image of the clubhouse<br>
 *Latest News/Events :* Upcoming events and recent news<br>
 *Footer :* Social media links, contact information, and quick links<br>
+
+**Login/Register/Logout**<br>
+*Login :* users interface to be logued on the website<br>
+*Register :* registration zone<br>
+*Logout :* Link to logout<br>
 
 **About Us Page**<br>
 *Introduction :* Detailed history and mission of the club<br>
@@ -41,10 +46,10 @@ The website will be following the visual of this wireframe (this is just the usi
 Website restructuration and reservation of a domain name and space area with minimum 1 sql ddb
 
 > [!IMPORTANT]
-New visual (layout) according to the color palet of the club
+New visual (layout) according to the color palet of the club (green - white - black)
 
 > [!IMPORTANT]
-Creation of a member zone
+Creation of a member zone 
 
 > [!IMPORTANT]
 Creation of a gallery (CRUD)
