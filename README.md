@@ -9,11 +9,11 @@ Website redesign of the Liege Aviron Club.
 - New visual (layout) according to the color palet of the club
 - Creation of an admin zone wich offer the possibilites of 
 
-[!TIP]
+> [!TIP]
 Manage the articles (news)
-[!TIP]
+> [!TIP]
 Manage the user (CRUD)
-[!TIP]
+> [!TIP]
 Manage the gallery
 
 - Creation of a member zone
