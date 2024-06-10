@@ -5,19 +5,30 @@
 Website redesign of the Liege Aviron Club.
 
 ## MISSION ##
-- Website restructuration
-- New visual (layout) according to the color palet of the club
-- Creation of an admin zone wich offer the possibilites of 
+> [!IMPORTANT]
+Website restructuration
+
+> [!IMPORTANT]
+New visual (layout) according to the color palet of the club
+
+> [!IMPORTANT]
+Creation of an admin zone wich offer the possibilites of 
+
 
 > [!TIP]
 Manage the articles (news)
+
 > [!TIP]
 Manage the user (CRUD)
+
 > [!TIP]
 Manage the gallery
 
-- Creation of a member zone
-- Creation of a gallery
+> [!IMPORTANT]
+Creation of a member zone
+
+> [!IMPORTANT]
+Creation of a gallery
 
 
 ## Technical Zone ##
