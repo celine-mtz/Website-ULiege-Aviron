@@ -23,7 +23,7 @@ The membership will be able to manage their own pictures<br>
 Calendar: Upcoming events and races<br>
 Event Details: Information and registration options for each event<br>
 
-**Gallery Page**<br>  
+**Gallery Page**<br>
 Photo Gallery: High-quality images of past events, training sessions, and club activities<br>
 
 **Contact Page**<br>
@@ -46,24 +46,24 @@ New visual (layout) according to the color palet of the club
 Creation of a member zone
 
 > [!IMPORTANT]
-Creation of a gallery
+Creation of a gallery (CRUD)
 
 > [!IMPORTANT]
 Creation of an admin zone wich offer the possibilites of 
-
-Manage the articles (news)
-Manage the user (CRUD)
-Manage the gallery
+- Manage the articles (news)
+- Manage the user (CRUD)
+- Manage the gallery
 
 
 ## Technical Zone ##
-- Frontend : Nextjs (Quentin + Louis)
+**Frontend :** Nextjs<br>
+-- Managed by : Heuse Quentin + Pavier Louis<br>
 
-- Backend : Laravel (Fournier Damien + Céline)
+**Backend :** Laravel <br>
+-- Managed by : Metz Céline + Fournier Damien<br>
 
 ## Following Project ##
 A weekly report is planned to show the progress of the projet.
-
 
 ## TRELLO ##
 https://trello.com/b/jT6gygBC/projet-%F0%9F%8F%94%EF%B8%8F
