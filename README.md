@@ -6,14 +6,19 @@ Website redesign of the Liege Aviron Club.
 
 ## MISSION ##
 > [!IMPORTANT]
-Website restructuration
+Website restructuration and reservation of a domain name and space area + 1 sql ddb
 
 > [!IMPORTANT]
 New visual (layout) according to the color palet of the club
 
 > [!IMPORTANT]
-Creation of an admin zone wich offer the possibilites of 
+Creation of a member zone
 
+> [!IMPORTANT]
+Creation of a gallery
+
+> [!IMPORTANT]
+Creation of an admin zone wich offer the possibilites of 
 
 > [!TIP]
 Manage the articles (news)
@@ -23,12 +28,6 @@ Manage the user (CRUD)
 
 > [!TIP]
 Manage the gallery
-
-> [!IMPORTANT]
-Creation of a member zone
-
-> [!IMPORTANT]
-Creation of a gallery
 
 
 ## Technical Zone ##
